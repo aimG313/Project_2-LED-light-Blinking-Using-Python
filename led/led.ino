@@ -1,4 +1,4 @@
-int ledPin = 7; // Built-in LED pin
+int ledPin = 7; // LED pin 
 
 void setup()
 {
