@@ -10,6 +10,10 @@ _This is my 2nd project using Arduino Uno R3 controlled by python user input com
 | 3  | Breadboard | 1 |
 | 4  | Resistor | 1 | 
 | 5  | Jumper Wires | 2 | 
+---
+**Project Preview:**
+
+[Watch Video from Linkedin](https://www.linkedin.com/posts/ashraful-islam-mahi_arduinoabrprojects-pythonabrprojects-electronicsabrprojects-activity-7253825336574910464-bnbA?utm_source=share&utm_medium=member_desktop)
  
 
  
