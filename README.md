@@ -1,6 +1,6 @@
 # Project-2: LED light Switching Arduino & Python
 ---
-_This is my 2nd project using Arduino Uno R3 controlled by python user input command, which will make a LED light swtitch on & off_
+_This is my 1st project using Arduino Uno R3 controlled by python user input command, which will make a LED light swtitch on & off_
 
 **Instrument List:**
 | No |  Name | Quantity |
